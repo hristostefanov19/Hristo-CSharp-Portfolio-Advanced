@@ -1,0 +1,14 @@
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\bin\Debug\net8.0\Task Manager.exe
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\bin\Debug\net8.0\Task Manager.deps.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\bin\Debug\net8.0\Task Manager.runtimeconfig.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\bin\Debug\net8.0\Task Manager.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\bin\Debug\net8.0\Task Manager.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\obj\Debug\net8.0\refint\Task Manager.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Task Manager\Task Manager\obj\Debug\net8.0\ref\Task Manager.dll

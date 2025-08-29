@@ -1,0 +1,14 @@
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\bin\Debug\net8.0\Mini Library2.exe
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\bin\Debug\net8.0\Mini Library2.deps.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\bin\Debug\net8.0\Mini Library2.runtimeconfig.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\bin\Debug\net8.0\Mini Library2.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\bin\Debug\net8.0\Mini Library2.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\obj\Debug\net8.0\Mini Library2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\obj\Debug\net8.0\Mini Library2.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\obj\Debug\net8.0\Mini Library2.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\obj\Debug\net8.0\Mini Library2.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\obj\Debug\net8.0\Mini Library2.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\obj\Debug\net8.0\refint\Mini Library2.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\obj\Debug\net8.0\Mini Library2.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\obj\Debug\net8.0\Mini Library2.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Library2\Mini Library2\obj\Debug\net8.0\ref\Mini Library2.dll

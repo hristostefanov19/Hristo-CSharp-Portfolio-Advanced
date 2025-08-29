@@ -1,0 +1,14 @@
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\bin\Debug\net8.0\Contact Book.exe
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\bin\Debug\net8.0\Contact Book.deps.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\bin\Debug\net8.0\Contact Book.runtimeconfig.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\bin\Debug\net8.0\Contact Book.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\bin\Debug\net8.0\Contact Book.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\obj\Debug\net8.0\refint\Contact Book.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Contact Book\Contact Book\obj\Debug\net8.0\ref\Contact Book.dll

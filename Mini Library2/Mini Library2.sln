@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini Library2", "Mini Library2\Mini Library2.csproj", "{C2AC4442-73E0-402F-A444-58D36B84726C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2AC4442-73E0-402F-A444-58D36B84726C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AC4442-73E0-402F-A444-58D36B84726C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AC4442-73E0-402F-A444-58D36B84726C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AC4442-73E0-402F-A444-58D36B84726C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A2A1BE-1A31-46D0-BA23-CF467A0D31A9}
+	EndGlobalSection
+EndGlobal

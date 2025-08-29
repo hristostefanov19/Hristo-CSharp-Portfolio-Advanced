@@ -1,0 +1,14 @@
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\bin\Debug\net8.0\Mini Banking App.exe
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\bin\Debug\net8.0\Mini Banking App.deps.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\bin\Debug\net8.0\Mini Banking App.runtimeconfig.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\bin\Debug\net8.0\Mini Banking App.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\bin\Debug\net8.0\Mini Banking App.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\obj\Debug\net8.0\Mini Banking App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\obj\Debug\net8.0\Mini Banking App.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\obj\Debug\net8.0\Mini Banking App.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\obj\Debug\net8.0\Mini Banking App.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\obj\Debug\net8.0\Mini Banking App.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\obj\Debug\net8.0\refint\Mini Banking App.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\obj\Debug\net8.0\Mini Banking App.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\obj\Debug\net8.0\Mini Banking App.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Mini Banking App\Mini Banking App\obj\Debug\net8.0\ref\Mini Banking App.dll
