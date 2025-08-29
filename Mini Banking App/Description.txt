@@ -1,0 +1,3 @@
+What it does: Manages bank accounts – adding accounts, depositing, withdrawing, merging, applying interest to savings accounts.
+
+Skills: Inheritance (BankAccount → SavingsAccount), OOP, CRUD operations, LINQ, file storage

@@ -1,0 +1,3 @@
+What it does: Allows you to create, edit, mark as complete, and delete tasks.
+
+Skills: OOP, CRUD operations, LINQ for filtering and sorting tasks, file storage
